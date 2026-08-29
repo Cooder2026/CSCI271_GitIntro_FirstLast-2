@@ -1,5 +1,5 @@
-# CSCI271_GitIntro_FirstLast-2# My First GitHub Repository
+# My First GitHub Repository
 This is my very first repository on GitHub!
 **Author: ** [David Ruiz]
-**Date Created: ** Aug 27, 2026
+**Date Created: ** Aug 29, 2026
 **Purpose: ** Practicing GitHub basics, including creating a repository and a README file.
