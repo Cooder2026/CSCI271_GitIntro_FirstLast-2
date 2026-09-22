@@ -20,8 +20,10 @@ int main() {
 
     if ((month == 3 && day >= 21) || (month == 4 && day <= 19))
         zodiac = "Aries";
+    
     else if ((month == 4 && day >= 20) || (month == 5 && day <= 20))
         zodiac = "Taurus";
+    
     else if ((month == 5 && day >= 21) || (month == 6 && day <= 20))
     zodiac = "Gemini";
 
